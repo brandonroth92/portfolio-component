@@ -1,0 +1,8 @@
+= Welcome to Portfolio Component!
+:navtitle: Welcome
+
+This is the automatic start page for version *{page-component-display-version}* of Portfolio Component.
+
+== Page source
+
+This page is sourced from the AsciiDoc file named [.path]_index.adoc_ that is located at [.path]_portfolio-component/modules/ROOT/pages_.
